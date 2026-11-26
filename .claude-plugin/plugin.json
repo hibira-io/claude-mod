@@ -1,0 +1,11 @@
+{
+  "name": "hibira-mod",
+  "version": "0.1.0",
+  "description": "A Hibira pane and status line in Claude Code: live connections, messages today and approvals waiting for you, read through the Hibira MCP server.",
+  "author": { "name": "Hibira", "email": "support@hibira.io" },
+  "homepage": "https://hibira.io/claude-code",
+  "repository": "https://github.com/hibira-io/claude-mod",
+  "license": "MIT",
+  "keywords": ["hibira", "realtime", "approvals", "status-line", "mod"],
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "hibira-mod",
+  "owner": { "name": "Hibira", "email": "support@hibira.io" },
+  "metadata": { "description": "The Hibira mod for Claude Code.", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "hibira-mod",
+      "source": "./",
+      "description": "A Hibira pane and status line in Claude Code: live connections, messages today and approvals waiting for you.",
+      "version": "0.1.0",
+      "author": { "name": "Hibira", "email": "support@hibira.io" },
+      "homepage": "https://hibira.io/claude-code",
+      "repository": "https://github.com/hibira-io/claude-mod",
+      "license": "MIT"
+    }
+  ]
+}
